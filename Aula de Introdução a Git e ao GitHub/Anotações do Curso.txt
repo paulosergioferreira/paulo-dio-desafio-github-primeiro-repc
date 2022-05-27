@@ -1,0 +1,6 @@
+git clone : clonar projeto
+https://github.com/paulosergioferreira/
+paulo-dio-desafio-github-primeiro-repc.git
+
+git status: ver se existe alguma alteração
+
